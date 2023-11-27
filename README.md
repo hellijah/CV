@@ -20,6 +20,8 @@ thierry.corlieto@gmail.com
 
 ## FORMATION
 
+2024 POEC admin système !(https://www.wildcodeschool.com/fr-fr/)
+
 2014 	Licence 1 chinois et japonais. Université Jean Jaures Toulouse
 
 2007	École d'ingénieur généraliste. Option Télécommunication. ECAM Rennes 35 / Diplôme non validé
