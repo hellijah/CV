@@ -1,5 +1,7 @@
 # CV
 
+!(IMG_20230514_095253.jpg)
+
 ## PRESENTATION
 
 Thierry CORLIETO 
