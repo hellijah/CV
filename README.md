@@ -1,6 +1,6 @@
 # CV
 
-!([IMG_20230514_095253.jpg](https://github.com/hellijah/CV/blob/main/IMG_20230514_095253.jpg))
+!(https://github.com/hellijah/CV/blob/main/IMG_20230514_095253.jpg)
 
 
 ## PRESENTATION
