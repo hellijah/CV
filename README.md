@@ -5,12 +5,17 @@
 
 ## PRESENTATION
 
- Thierry CORLIETO 
- 14 allée d'anjou 31770 COLOMIERS
- thierry.corlieto@gmail.com
- Permis B + Véhicule
- 07-68-49-32-52
- 43 ans, Célibataire, sans enfant 
+Thierry CORLIETO
+
+14 allée d'anjou 31770 COLOMIERS
+
+thierry.corlieto@gmail.com
+
+Permis B + Véhicule
+
+07-68-49-32-52
+
+43 ans, Célibataire, sans enfant 
 
 
 ## FORMATION
