@@ -40,13 +40,13 @@ Permis B + Véhicule
 
 03/16 à 04/20	Intérim Agence ADECCO 
 
-	Missions principales
+   **Missions principales**
  
 ADHETEC 07/19 à 04/20  //  Opérateur DAO & impression
 
 TERREAL 06/16 à 12/17 // Conducteur de ligne
 
-	+  Diverses missions de courtes et moyennes durées
+   et diverses missions de courtes et moyennes durées
 
 03/10 à 09/13 	Professeur en mathématique, Informatique, physique et chimie. Agence cours Cyprien
 
