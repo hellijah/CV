@@ -11,7 +11,7 @@ Thierry CORLIETO
 
 thierry.corlieto@gmail.com
 
-Permis B + Véhicule
+**Permis B + Véhicule**
 
 07-68-49-32-52
 
@@ -43,7 +43,7 @@ Permis B + Véhicule
 
 03/16 à 04/20	Intérim Agence ADECCO 
 
-   **Missions principales**
+   *Missions principales*
  
 ADHETEC 07/19 à 04/20  //  Opérateur DAO & impression
 
